@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashiDev556
-- 👀 I’m interested in ... machine learning
-- 🌱 I’m currently learning ... machine learning
+- 👀 I’m interested in ... app development
+- 🌱 I’m currently learning ... app development
 - 💞️ I’m looking to collaborate on ... nothing as of now
 - 📫 How to reach me ... yashidev556@gmail.com
 
